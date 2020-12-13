@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523214573382",
+    "project_id": "deep-linking-rn",
+    "storage_bucket": "deep-linking-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523214573382:android:8909a72ac0230b7583df47",
+        "android_client_info": {
+          "package_name": "com.rn_deep_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523214573382-6ce7ed3qkh0v71of4r314gbhd0ufvs31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_deep_link",
+            "certificate_hash": "8985a6b3f3e632a4e8734f3de0af496bf6ce1d3b"
+          }
+        },
+        {
+          "client_id": "523214573382-8e7omvmrc0m7j5rgg1ef4o5f7dp8nkcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXo07KYFEVY71GYoRrsNVy1OfYQz0yDVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523214573382-8e7omvmrc0m7j5rgg1ef4o5f7dp8nkcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
